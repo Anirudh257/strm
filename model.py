@@ -549,7 +549,7 @@ if __name__ == "__main__":
             self.num_gpus = 1
             self.temp_set = [2,3]
     args = ArgsObject()
-    torch.manual_seed(STRM(args)
+    torch.manual_seed(STRM(args))
     
     support_imgs = torch.rand(args.way * args.shot * args.seq_len,3, args.img_size, args.img_size)
     target_imgs = torch.rand(args.way * args.query_per_class * args.seq_len ,3, args.img_size, args.img_size)
