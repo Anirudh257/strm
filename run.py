@@ -29,10 +29,10 @@ def setup_logger(name, log_file, level = logging.INFO):
     return logger
     
 # logger for training accuracies
-train_logger = setup_logger('Training_accuracy', './runs_trx_ssv2_tempset_2_gamma_hier_patch_16_lin_bot_mlp_new_dist_loss_clsw_relu_no_pe_drop_frame_mlp_mix_run1/train_output.log')
+train_logger = setup_logger('Training_accuracy', './runs_strm/train_output.log')
 
 # logger for evaluation accuracies
-eval_logger = setup_logger('Evaluation_accuracy', './runs_trx_ssv2_tempset_2_gamma_hier_patch_16_lin_bot_mlp_new_dist_loss_clsw_relu_no_pe_drop_frame_mlp_mix_run1/eval_output.log')    
+eval_logger = setup_logger('Evaluation_accuracy', './runs_strm/eval_output.log')    
 
 #############################################
 #setting up seeds
