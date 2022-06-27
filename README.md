@@ -70,4 +70,4 @@ If you find this repository useful, please consider giving a star :star: and cit
 The codebase was built on top of [trx](https://github.com/tobyperrett/trx). Many thanks to [Toby Perrett](https://tobyperrett.github.io/) for previous work.
 
 ## Contact
-Should you have any question, please contact :e-mail: anirudh.thatipelli@mbzuai.ac.ae or message me on [Linkedin](https://www.linkedin.com/in/anirudh-thatipelli-85a650111/).
+Should you have any question, please contact :e-mail: thatipellianirudh@gmail.com or message me on [Linkedin](https://www.linkedin.com/in/anirudh-thatipelli-85a650111/).
