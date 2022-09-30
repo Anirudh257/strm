@@ -52,7 +52,7 @@ Use the scripts given in [scripts](scripts)
 
 1) Use the evaluation script as given in [eval_strm_ssv2.sh](scripts/eval_strm_ssv2.sh)
 
-2) Download the checkpoints from these links: [SSV2](https://drive.google.com/drive/folders/10OWh4GPBbX1-qr4s8d0rnMqGbn92Pqux), [Kinetics](https://drive.google.com/file/d/1OUCNae0BI2DRefeiU_m232q5OKzE7BIy/view?usp=sharing), [HMDB](https://drive.google.com/file/d/1bDoeJBFYSn5gNWF3oarevvCeqOSyeSnB/view?usp=sharing), [UCF](https://drive.google.com/file/d/10AAZuEIhJ_no5qNn7DCU7XlsABUo6uc-/view?usp=sharing)
+2) Download the checkpoints from these links: [SSV2](https://drive.google.com/file/d/19o33BTGc3HwSHPFbqFpD7V8Myhcc7dmq/view?usp=sharing), [Kinetics](https://drive.google.com/file/d/1lD8IJInh5llVNDxRCokRLZXZ0knFrF3e/view?usp=sharing), [HMDB](https://drive.google.com/file/d/1VDzLPB_DjhtsBbrdLRlnUvh-F1bgEeu-/view?usp=sharing), [UCF](https://drive.google.com/file/d/1giQcRHDnMPVca4s9Zjgi-sHUYH9AGBVK/view?usp=sharing)
      
 
 ## Citation
